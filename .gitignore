@@ -1,7 +1,3 @@
 
-input/debertav3base/config.json
-input/debertav3base/pytorch_model.bin
-input/debertav3base/rust_model.ot
-input/debertav3base/spm.model
-*.h5
-input/debertav3base/tokenizer_config.json
+input/debertav3base/*
+debertav3base/*
